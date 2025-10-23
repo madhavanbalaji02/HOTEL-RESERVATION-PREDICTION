@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavanbalaji/Documents/project/MLOPS-PROJECT-1/mlruns/0/db1576edc67d442fa6fefc525739b23f/artifacts
+end_time: 1761184806721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db1576edc67d442fa6fefc525739b23f
+run_name: handsome-shrew-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761184789414
+status: 3
+tags: []
+user_id: madhavanbalaji

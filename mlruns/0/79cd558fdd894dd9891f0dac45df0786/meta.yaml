@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavanbalaji/Documents/project/MLOPS-PROJECT-1/mlruns/0/79cd558fdd894dd9891f0dac45df0786/artifacts
+end_time: 1761185967188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79cd558fdd894dd9891f0dac45df0786
+run_name: bittersweet-cat-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761185950255
+status: 3
+tags: []
+user_id: madhavanbalaji

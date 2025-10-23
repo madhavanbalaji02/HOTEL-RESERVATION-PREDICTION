@@ -1,0 +1,5 @@
+config
+mlops_project_1
+pipeline
+src
+utils

@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlops-project-1"
+version = "0.1.0"
+description = "MLOps project"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
